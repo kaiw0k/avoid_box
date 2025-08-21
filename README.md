@@ -3,6 +3,8 @@
 A fast-paced, challenging platformer game built with Python and Pygame where you control a red block trying to survive
 in a world of moving green blocks.
 
+This game generate by Github copilot.
+
 ## Game Features
 
 - **Dynamic Platform System**: Intelligently generated platforms with balanced distances and heights
